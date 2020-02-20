@@ -1,0 +1,61 @@
+[
+  {
+    "grouping": "Architecture",
+    "skills": [
+      "RESTful APIs",
+      "GraphQL",
+      "Microservices",
+      "SaaS/PaaS/IaaS"
+    ]
+  },
+  {
+    "grouping": "Languages, & Tools",
+    "skills": [
+      {
+        "name": "C#",
+        "icon":"csharp"
+      },{
+        "name": "MSBuild",
+        "icon":"dotnet"
+      },
+      "javascript",
+      "TypeScript",
+      "git",
+      "PowerShell",
+      {
+        "name": "Visual Studio",
+        "icon": "VisualStudio"
+      },
+      "jquery",
+      {
+        "name": "node",
+        "icon": "nodejs"
+      },
+      "html5",
+      "Sass",
+      {
+        "name": "css",
+        "icon": "css3"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "icon": "msql_server"
+      },
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      }
+    ]
+  },
+  {
+    "grouping": "Platform Development & Administration",
+    "skills": [
+      "Atlassian",
+      { "name":"TeamCity", "icon":"jetbrains"},
+      "Bitbucket",
+      "GitHub",
+      "Octopus Deploy",
+      "Azure DevOps"
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+- role: Lead Developer
+  company: MD Insurance Services Limited
+  range : April 2017 - Present
+  summary: |
+        I time here...
+
+- role: Senior Developer
+  company: 2020 Legal Limited
+  range: December 2013 - April 2017
+  summary: |
+        During my time employed at 2020 Legal I had been directly responsible for improving development practices
+        and producing high impact systems.
+        
+        In my role I had complete autonomy about technical architecture of the systems and been instrumental 
+        in the technical direction of the development team, this includes introducing best practice development 
+        procedures, moving the company over from using SVN over to git and introducing the gitflow development 
+        pattern, worked to improve the continuous build/deployment workflowm by moving deployment over to octopus
+        deploy to provide a central deployment solution across our projects, and also move company over to a SOA 
+        for internal systems and implementing a middleware service wrapping the data provided by the CRM used to 
+        provide a clean API 2 directional to integrate new tools. Also as a proof of concept of the API I migrated 
+        the existing customer portals over to run from it exclusively.
+        
+        I produced a multitude of technical systems for 2020 Legal from small single integration pieces (producing 
+        a system to work around the technical limitations of the CRM being used). To large scale(effecting every single 
+        employee in the company) systems for managing outgoing mail/printing/documents (see EDS and PEX).
+        
+        In addition to the above projects, as a full stack developer, I have reprised my skills from my previous employment 
+        to rebuild most of the company's websites using Umbraco.
+
+- role: Developer
+  company: ICE Creates Ltd
+  range: March 2007 - November 2013
+  summary: |
+        Over the long period of time I have been employed at ICE I have progressed from being a junior developer all the way 
+        up to the mid-level/senior developer was when I left am today. In my role I am acting as the technical lead/architect 
+        on all software being produced (Being the point of decision for both back-end and front-end development choices) not 
+        only am I responsible for leading the technical direction of the team I am also a full stack developer and fully deliver 
+        full solutions myself, developing both front end and back end solutions for internal and external clients alike.
+        
+        During my time at ICE I've been involved with a large variety of different projects. My first project(Healthy Schools 
+        Programme website) was re-factoring a hybrid VB.NET/C#, single layered, WebForms solution into an n-tier C# application 
+        (and later re-developing it as an multi-application MVC system), all whilst constantly improving/expanding the feature set. 
+        Later on as my skills expanded and I progressed up the job ladder I was given more and more responsibility over the full 
+        development life-cycle of projects, from scope all the way to development and deployment. Two internal projects that I did 
+        have full responsibility of delivery for was a bespoke CRM for our in house stop smoking service, and our SaaS hosting service. 
+        The CRM was a WinForms application using a local CouchDB as a offline multi-master replicating datastore with a customised 
+        reporting solution build on top of couchDB's map/reduce capabilities, whilst the SaaS solution was built around a core MVC and 
+        WebAPI solutions, with satellite Umbraco based sites liking in as a data/user/settings store.
+        
+        In addition to the above projects, as a full stack developer, I have been responsible for producing countless websites for 
+        clients, developing the solution, to implementing the designs and then wiring up the JavaScript to back-end web-services 
+        I developed. The types of websites I have been responsible for over the years have varied in scope from simple brochure 
+        sites to complex web application used for tracking physical activity.
+
+        Finally I have a wider experiences than just developing websites, I also have also been responsible for developing web 
+        connected mobile applications (using both Phonegap and Titanium mobile), and systems that run on touchscreen kiosks 
+        using web technologies.
+
+- role: Helpdesk technican 
+  company: Baum Hart and Partners
+  range: March 2006 - March 2007
+  summary: |
+        During my time here parts of my job involved taking help desk calls, then trying to replicate the errors and investigation
+        into the problem the user is facing while using a bespoke piece of software being implemented by multiple NHS trusts and
+        hospitals around the country. Also having to do data preparation by developing SQL scripts to extract live data from 
+        databases for later use in updates and reports. My responsibilities also included managing the office network as the 
+        office technical support personal, with a primary responsibility, but not limited, to maintain the web, SQL and files 
+        servers, also in the role of Technical Support officer I was responsible in supporting the technical network solutions 
+        for our clients.
