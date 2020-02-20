@@ -8,7 +8,7 @@ description = "Personal resume with social handles, skills inventory, work histo
 homepage = "https://edwardwebb.com/"
 tags = ["portfolio","resume","responsive", "cms"]
 features = ["social","mobile","projects","responsive","qr-code","cms"]
-min_version = "0.62"
+#min_version = "0.62"
 
 [author]
   name = "Eddie Webb"
