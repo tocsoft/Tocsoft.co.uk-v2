@@ -3,7 +3,7 @@ title: "GraphQL CodeGen"
 link: "https://github.com/tocsoft/GraphQLCodeGen"
 description: "A template driven code generator for converting graphql queries into a strongly typed classes for both TypeScript and C#."
 featured: true
-tags: ["c#","dotnet","Appveyor", "GraphQL", "TypeScript", "MSBuild", "npm"]
+tags: ["csharp","dotnet","Appveyor", "GraphQL", "TypeScript", "MSBuild", "npm"]
 weight: 90
 sitemap: 
     priority : 0.8

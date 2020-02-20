@@ -4,7 +4,7 @@ link: "https://github.com/sixlabors/fonts"
 image: "https://raw.githubusercontent.com/SixLabors/Branding/master/icons/fonts/sixlabors.fonts.512.png"
 description: "ImageSharp is a new, fully featured, fully managed, cross-platform, 2D graphics API. Think System.Drawing but sane."
 featured: true
-tags: ["c#","dotnet","GitHub","GitHub Actions","Appveyor", "True Type Font", "WOFF"]
+tags: ["csharp","dotnet","GitHub","GitHub Actions","Appveyor", "True Type Font", "WOFF"]
 weight: 100
 sitemap: 
     priority : 0.8
