@@ -12,7 +12,7 @@
 
 backend:
   name: github
-  repo: tocsoft/tocsoft.co.uk
+  repo: tocsoft/tocsoft.co.uk-v2
   branch: master
 
 media_folder: "static/img" # Folder where user uploaded files should go
