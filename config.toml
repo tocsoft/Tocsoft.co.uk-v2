@@ -10,7 +10,6 @@ enableGitInfo = false
 [params]
 address = "Birkenhead, United Kingdom"
 email = "tocsoft@gmail.com"
-favicon = "/favicon.ico"
 firstName = "Scott"
 lastName = "Williams"
 #phone = "1-555-555-1234"
@@ -37,7 +36,8 @@ link = "https://github.com/tocsoft/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://stackoverflow.com/users/story/82880"
+link = "https://stackoverflow.com/users/story/234855"
+icon = "stack-overflow"
 name = "Stack Overflow"
 
 [[params.handles]]
