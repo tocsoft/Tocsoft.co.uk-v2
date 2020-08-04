@@ -16,4 +16,4 @@ This page represents the landing page for "creations" section. It is also shown 
 
 
 
-<p>A collection of projects authored by Eddie, and likely shared out with the community as an open source project.</p>
+<p>A collection of professional projects I've been instrumental in over the years.</p>
