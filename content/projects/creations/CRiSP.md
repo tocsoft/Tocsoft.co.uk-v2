@@ -19,7 +19,7 @@ tags:
   - Entity Framework
 ---
 
-_This is a piece developed internally for an insurance company to replace there old/externally developed and maintained policy management system._
+_This is a piece developed internally for an insurance company to replace their old/externally developed and maintained policy management system._
 
 CRiSP is made up of a core Web API which acts as the gateway to the (Entity Framework based) DB layer and business logic layers from the UI applications. We expose 2 separate APIs, a standard REST based aspnet.net WebAPI based solution and a newer GraphQL API (which we are in the progress of migrating to). 
 

@@ -12,7 +12,7 @@ tags:
 
 _This website is no longer live as the programme was drastically reduced under the coalition changes_
 
-This was a masive enterprise scale wep application servicing all schools across all of England and Wales. The system provided was a self validation and tracking platform to improve the health and wellbeing of schools and pupils. This platform had massive reporting and a strict hierarchical security model.
+This was a massive enterprise scale web application servicing all schools across all of England and Wales. The system provided was a self validation and tracking platform to improve the health and wellbeing of schools and pupils. This platform had massive reporting and a strict hierarchical security model.
 
 Inherited as a hybrid VB.NET and C# WebForms application, over a series of re-factors and rewrites became a multi system C# MVC application that had to scale to approximately 20,000 page views per day.
 
