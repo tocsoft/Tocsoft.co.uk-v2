@@ -2,25 +2,23 @@
   company: MD Insurance Services Limited (aka Premier Guarantee)
   range : April 2017 - Present
   summary: |
-        While working at MD Insurance Services I have proven my vision and architectual design skills, by starting as a 
-        Senior developer and by being intrumental in pushing forth industry best practices like code reviews, CI/CD 
-        , by liaise with business users to help engineer a design to match thier goals, by guiding the wider team of both 
-        senior and junior develpers along the vison for the desired solution. Thus being promoted to Lead.
+        While working at MD Insurance Services I have proven my vision and architectural design skills, by starting as a 
+        Senior developer and by being instrumental in pushing forth industry best practices like code reviews, CI/CD 
+        , by liaise with business users to help engineer a design to match their goals, by guiding the wider team of both 
+        senior and junior developers along the vison for the desired solution. Thus, being promoted to Lead.
         
-        Along with guiding the overall architecual design of our in house developed system I provide I direct 
-        support and mentoring to other members on the team and helping them to find solutions to solve there development 
-        tasks. 
-
-        The major project I am responsible for is the CRiSP risk and policy managment system that now runs as the core 
-        platform for most of the business needs, for onboarding new clients via a suite of public facing portals, to 
-        intenral specailist internal ones for specialsed business areas. I.E. specialsed/simplifed interface for our 
-        surveying feild staff. 
-
-        Not only I am responsible for the design and direction of the platform my responsibilites also include keeping both 
-        our large suite of QA environments running but also deploying, monitoring and ensuring our production system ticks 
-        along smoothly to aid in this I developed a robust DevOps pipeline that supports deploying all our components out 
-        with little downtime with on going work to replatform to provide as close to zero downtime deployments.
-
+        Along with guiding the overall architectural design of our in house developed system I provide I direct support and 
+        mentoring to other members on the team and helping them to find solutions to solve their development tasks.
+        
+        The major project I am responsible for is the CRiSP risk and policy management system that now runs as the core 
+        platform for most of the business needs, for onboarding new clients via a suite of public facing portals, to internal
+        specialist internal ones for specialised business areas. I.E. specialised/simplified interface for our surveying 
+        field staff.
+        
+        Not only I am responsible for the design and direction of the platform my responsibilities also include keeping both
+        our large suite of QA environments running but also deploying, monitoring and ensuring our production system ticks
+        along smoothly to aid in this I developed a robust DevOps pipeline that supports deploying all our components out with
+        little downtime with on going work to re-platform to provide as close to zero downtime deployments.
 
 
 - role: Senior Developer
@@ -75,7 +73,7 @@
         connected mobile applications (using both Phonegap and Titanium mobile), and systems that run on touchscreen kiosks 
         using web technologies.
 
-- role: Helpdesk technican 
+- role: Helpdesk technician 
   company: Baum Hart and Partners
   range: March 2006 - March 2007
   summary: |
