@@ -42,8 +42,11 @@
         "icon": "msql_server"
       },
       {
-        "name": "Docker",
-        "link": "https://docker.com"
+        "name": "Docker"
+      },
+      {
+        "name": "Kubernetes",
+        "icon": "kubernetes"
       }
     ]
   },
@@ -51,7 +54,7 @@
     "grouping": "Platform Development & Administration",
     "skills": [
       "Atlassian",
-      { "name":"TeamCity", "icon":"jetbrains"},
+      { "name":"TeamCity", "icon":"jetbrains" },
       "Bitbucket",
       "GitHub",
       "Octopus Deploy",

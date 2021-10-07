@@ -1,7 +1,6 @@
 ---
 title: PEX Suite - system extension suite
 description: This is a suite of applications that can be centrally deployed and expand the native capabilities of Proclaim (Case management software).
-featured: true
 tags:
   - SOAP
   - csharp
