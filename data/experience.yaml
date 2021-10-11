@@ -3,14 +3,14 @@
   company: Hublsoft
   range: November 2020 - Present
   summary: |
-        My work at hublsoft has left me a the individual leading architetucal change and transformation of our product. 
+        My work at hublsoft has left me as the individual leading architetucal change and transformation of our product. 
         Primarally responsible for improving our deployment workflow and local development workflow, taking us from a 
         company relying on shared remote resources for even the simplest of local development to being able to now spin up 
         and develop our product completly locally and off the corporate network via hosting and running the entire 
         application in a local or remote kubernetes cluster.
 
         The bulk of my work has been to get us to this point, migrating projects written in .net framework to .net core.
-        Migrating out build process form on premese teamcity to github action, producing linux container images for all 
+        Migrating our build process form on prem based teamcity server over to github action, producing linux container images for all 
         our services. As part of this migration also having to continue to support and update our on premises/VM based 
         deployment model orchestrated using octopus deploy.
 
