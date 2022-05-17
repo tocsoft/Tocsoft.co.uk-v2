@@ -36,11 +36,6 @@ link = "https://github.com/tocsoft/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://stackoverflow.com/users/story/234855"
-icon = "stack-overflow"
-name = "Stack Overflow"
-
-[[params.handles]]
 link = "https://twitter.com/tocsoft"
 name = "Twitter"
 
