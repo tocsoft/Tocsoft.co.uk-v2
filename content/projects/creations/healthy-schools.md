@@ -1,6 +1,6 @@
 ---
 title: Healthy Schools Programme website
-description: This was a massive enterprise scale weB application servicing all schools across all of England and Wales. The system provided was a self validation and tracking platform to improve the health and wellbeing of schools and pupils. This platform had massive reporting and a strict hierarchical security model.
+description: This was a massive enterprise scale webB application servicing all schools across all of England and Wales. The system provided was a self validation and tracking platform to improve the health and wellbeing of schools and pupils. This platform had massive reporting and a strict hierarchical security model.
 featured: true
 tags:
   - csharp

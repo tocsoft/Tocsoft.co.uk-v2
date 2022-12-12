@@ -1,21 +1,27 @@
 
-- role: Senior Developer
+- role: Lead Software Engineer/Architect
   company: Hublsoft
   range: November 2020 - Present
   summary: |
-        My work at hublsoft has left me as the individual leading architectural change and transformation of our product. 
-        Primarily responsible for improving our deployment workflow and local development workflow, taking us from a 
-        company relying on shared remote resources for even the simplest of local development to being able to now spin up 
-        and develop our product completely locally and off the corporate network via hosting and running the entire 
+        My work at Hublsoft has left me as the individual leading architectural change and transformation of our product.
+        I also lead/own all our deployment, CI and local development workflows, migrating taking us from a company relying
+        on shared remote resources for even the simplest of local development to being able to now spin up and develop our
+        complete product stack, completely locally and off the corporate network via hosting and running the entire
         application in a local or remote Kubernetes cluster.
-
-        The bulk of my work has been to get us to this point, migrating projects written in .net framework to .net core.
-        Migrating our build process form on prem based TeamCity server over to GitHub actions, producing linux container images for all 
-        our services. As part of this migration also having to continue to support and update our on premises/VM based 
-        deployment model orchestrated using octopus deploy.
         
-        As a member of the Technical Steering Group (along with 2 other senior/lead engines and the CTO) I have a high level of ownership
-        on the technical direction of the product with my main focus on the .NET backend system and hosting architecture.
+        The bulk of my work has been to get us to this point, migrating projects written in .net framework to .net core.
+        Migrating our build process form on prem based TeamCity server over to GitHub action, producing Linux container
+        images for all our services. As part of this migration also having to continue to support and update our on
+        premises/VM based deployment model orchestrated using octopus deploy.
+        
+        As a member of the Technical Steering Group (along with 2 other senior/lead engineers and the CTO) I have a high
+        level of ownership on the technical direction of the product with my main focus on the .NET backend system and
+        hosting architecture.
+        
+        Another major focus here is based around developer productivity, building tools (see Localdev above) and frameworks
+        to facilitate the rest of the team to be able to rapid iterate on the product without having to worry about how it
+        all hangs together during their inner loop of development.
+
 
 
 - role: Lead Developer

@@ -32,7 +32,7 @@
         "icon": "nodejs"
       },
       "html5",
-      "Sass",
+      "Less",
       {
         "name": "css",
         "icon": "css3"

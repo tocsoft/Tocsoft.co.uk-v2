@@ -1,7 +1,7 @@
 ---
 title: ShipIt
 description: This is a cli/web package and configuration manager for Kubernetes applications made up of multiple distinct but interdependent services.
-featured: true
+featured: false
 tags:
   - csharp
   - Kubernetes
