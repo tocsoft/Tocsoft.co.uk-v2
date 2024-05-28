@@ -1,5 +1,5 @@
 title = "Scott Williams"
-baseURL = "https://tocsoft.netlify.com"
+baseURL = "https://tocsoft.com"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
