@@ -32,7 +32,6 @@
         "name": "node",
         "icon": "nodejs"
       },
-      "html5",
       "Less",
       {
         "name": "css",
