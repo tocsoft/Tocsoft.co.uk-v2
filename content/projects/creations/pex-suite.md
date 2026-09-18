@@ -8,14 +8,12 @@ tags:
   - ODBC
 ---
 
-_This is a piece developed internally for a large solicitors to extend their case management system._
+_This was developed internally for a large solicitor's firm to extend their case management system._
 
-This is a suite of applications that can be centrally deployed and expand the native capabilities of Proclaim (Case management software).
+PEX was a suite of centrally deployed applications that expanded the native capabilities of Proclaim, the case management platform used by the business.
 
-PEX is made up of multiple applications the core being an application host that runs the other application in a synchronous manor allowing for a results to be fed back into Proclaim.
+The core of the system was an application host that ran the other applications in a coordinated, synchronous manner and fed results back into Proclaim.
 
-A few of the tools that have been written on top the PEX Framework include, automatic translators allowing Polish call handlers to collect data in Polish and then automatically(with guidance) translate the text to English for further use.
+Several tools were built on top of the PEX framework. One example was an automatic translator that allowed Polish call handlers to capture information in Polish and then translate it into English with guided assistance for downstream processing. Another module was a custom history picker UI for selecting arbitrary items from case history; this used a custom REST API that read directly from the Proclaim database via ODBC.
 
-Another PEX module/application is a custom history picker UI which can be used to choose arbitrary items from the history, this uses a custom REST API that in-turn talks direct to the Proclaim DB via ODBC.
-
-The most feature full module was a PDF/document manipulator that can be fed a document code(taken from history picker or embedded field) and will allow the end user select arbitrary pages out of the source document and return the extracted parts as a new PDF for later use, or it can be used for splitting a document exactly in 2 pieces with all the pages in one of the other (useful for splitting invoices off third party reports).
+The most feature-rich module was a PDF and document manipulator. It accepted a document code from either the history picker or an embedded field and allowed users to select arbitrary pages from a source document, returning the extracted pages as a new PDF for later use. It could also split a document exactly in two, with all pages placed into one or the other output file, which was particularly useful for separating invoices from third-party reports.

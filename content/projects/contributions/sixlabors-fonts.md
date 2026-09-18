@@ -10,6 +10,6 @@ sitemap:
     priority : 0.8
 ---
 
-SixLabors.Fonts is a cross-platform font loadings and layout library.
+SixLabors.Fonts is a cross-platform font loading and layout library.
 
-This is a fully managed library that can load true type fonts files and then layout and execute an external renderer (see [Image Sharp](/projects/contributions/image-sharp))
+This fully managed library can load TrueType font files, lay them out, and render them via an external renderer (see [Image Sharp](/projects/contributions/image-sharp)).

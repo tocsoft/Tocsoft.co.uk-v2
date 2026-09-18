@@ -9,10 +9,10 @@ sitemap:
     priority : 0.8
 ---
 
-A template driven code generator for converting GraphQL queries into a strongly typed classes for both TypeScript and C#.
+A template-driven code generator for converting GraphQL queries into strongly typed classes for both TypeScript and C#.
 
-This library is released as an both a NuGet and npm package to enable integrating with various build pipelines for build time code generation.
+This library is published as both a NuGet package and an npm package to support integration with a range of build pipelines for build-time code generation.
 
-MSBuild integration even allows for design time and and error output integrations so you just have to design your Queries and away you go nothing to install just the NuGet package.
+The MSBuild integration also supports design-time feedback and error reporting, so once the queries are defined, there is no additional setup required beyond installing the NuGet package.
 
-This was primarily developed due to may work on [CRiSP](/projects/creations/crisp/) as I wanted a way for my team to have a very quick and intuitive development experience when we added GraphQL APIs into our stack.
+This was primarily developed from my work on [CRiSP](/projects/creations/crisp/), where I wanted to give my team a fast and intuitive development experience as we introduced GraphQL APIs into our stack.

@@ -14,20 +14,12 @@ tags:
   - MiniKube
 ---
 
-_This is a tool developed internally for a startup in the data visualization and analytics space._
+_This tool was developed internally for a startup in the data visualization and analytics space._
 
-Localdev is a tool developed to automate setup and development of our core product on both development machines using
-minikube and remote Kubernetes clusters alike (to facilitate developers working on lower grade hardware). It works by
-normalizing the process of setting up a cluster (or connecting to the remove cluster) configuring it to run all the
-development pieces of the product, seeding databases etc.
+Localdev is a tool created to automate the setup and development of our core product across both local developer machines or remote Kubernetes clusters. It normalizes the process of setting up a cluster, connecting to the environment, configuring the required services, and seeding databases.
 
-It can also be used to connect into the cluster (local or remote) exposing all the services as though they were running
-locally and also bridging in a local service so that it is exposed to service running remotely. This drastically reduces
-platform knowledge required to make changes, instead of having to understand you need these 20 services running and SQL
-server running, then reconfiguring all of those so the correct ports etc are used (a setup process that could take upwards
-of a week at times get 100% right) got down to a single command line call. In addition to the setup, it also supports
-resetting/snapshotting so that once you have completed work on an area you can simply reset back to a well-known state
-and carry on working on a separate change. (Great for integration testing).
+The tool can also connect into either a local or remote cluster and expose all services as though they were running locally. It can bridge local services so they are visible to workloads running remotely. This significantly reduces the platform knowledge required to make changes. Instead of understanding and configuring a large set of services, SQL Server, and port mappings manually (a setup process that could take several days to get right), the process is reduced to a single command-line call.
 
-The tool is even simple enough for other people not actively developing the product (CTO etc) being able to use it as a
-sales tool to demonstrate the product offline.
+In addition to setup, Localdev supports reset and snapshot workflows so that once work on one area is complete, teams can quickly revert to a known state and continue working on another change. This is especially useful for integration testing.
+
+The tool is simple enough for non-developers, such as engineering leadership or sales stakeholders, to use as a demonstration aid for showcasing the product offline.

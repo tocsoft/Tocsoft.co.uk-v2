@@ -11,10 +11,12 @@ tags:
   - WPF
 ---
 
-_This is a piece developed internally for a large solicitors replacing a previous system._
+_This was developed internally for a large solicitor's firm to replace an older system._
 
-This is a complex enterprise application and framework to provide a simplified workflow for send out mail to clients and other third parties.
+EDS/Print to Post was a complex enterprise application and framework designed to simplify the workflow for sending outgoing mail to clients and other third parties.
 
-EDS is a suite of applications/systems that all integrate to produce a single combined letter pack that must be printed enveloped and posted out it does this at a few levels. Deeply integrating with Proclaim (the case management system) to extract recently generated documents and access any other documents associated with the case. Next is provides a normalization document processing workflow to take the multitude of documents produce or imported into proclaim and convert them into a common format for later manipulation(PDFs). No it provides a UI to bundle multiple documents together into a single document pack for posting and in the same UI provide a workflow to allow managers to review the pack before they are sent on. Once packs are sent we have a second client application that can access the document packs and intelligently feeds them to a large printer for the final packing the enveloping in the most efficient way for the post-room team to envelope and post. Finally, once printed, the last step then imports the document packs back into Proclaim for tracking and accountability. Also providing a web interface for seeing the audit logs for all the modifications on the pack as it passed though the various stages.
+EDS was a suite of integrated applications that worked together to produce a single combined letter pack for printing, enveloping, and posting. It operated at several stages: first, it integrated deeply with Proclaim, the case management system, to retrieve recently generated documents and any other associated case files. Next, it provided a normalization workflow that converted the wide variety of documents produced or imported into Proclaim into a common format for later processing, primarily PDF documents. It then provided a UI to bundle multiple documents into a single posting pack and included a review workflow for managers before the pack was sent.
 
-_This new system had to fully inter-operate with the old system with two way syncing of printing data while it was rolled out across the company so we could minimize impact that most users experienced._
+Once packs were dispatched, a second client application accessed the document packs and fed them to a large printer for final packing and enveloping in the most efficient way for the post-room team. Finally, after printing, the system imported the packs back into Proclaim for tracking and accountability. It also included a web interface for reviewing audit logs covering each modification made to the pack throughout the process.
+
+_The new system had to interoperate fully with the legacy system, synchronizing printing data in both directions during rollout to minimize disruption for end users._

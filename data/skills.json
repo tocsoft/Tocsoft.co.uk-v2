@@ -20,6 +20,7 @@
       },
       "javascript",
       "TypeScript",
+      "React",
       "git",
       "PowerShell",
       {
@@ -53,7 +54,6 @@
   {
     "grouping": "Platform Development & Administration",
     "skills": [
-      "Atlassian",
       { "name":"TeamCity", "icon":"jetbrains" },
       "Bitbucket",
       "GitHub",

@@ -8,8 +8,8 @@ weight: 90
 sitemap: 
     priority : 0.8
 ---
-KubeConnect is a cli tool that will port forward all the services and ingresses in a namespace of a local or remote Kubernetes cluster to the users local machine.
+KubeConnect is a CLI tool that port-forwards all services and ingresses in a namespace of a local or remote Kubernetes cluster to the user’s local machine.
 
-It exposes all the services and updates local DNS so that services can be accessed in the same as they would be accessible from inside the cluster.
+It exposes all services and updates local DNS so they can be accessed the same way they would be from inside the cluster.
 
-Along with exposing the services it also acts as a ingress endpoint for exposing the ingresses to the local machine (including forcing DNS entries in locally). Ingress hosting also includes generating trusted local SSL certificates for accessing via https.
+In addition to exposing services, it also acts as an ingress endpoint for exposing ingresses to the local machine, including forcing local DNS entries. Ingress hosting also includes generating trusted local SSL certificates for HTTPS access.
