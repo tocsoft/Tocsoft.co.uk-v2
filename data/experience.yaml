@@ -4,109 +4,108 @@
   range: November 2020 - Present
   summary: |
         My work at Hublsoft has left me as the individual leading architectural change and transformation of our product.
-        I also lead/own all our deployment, CI and local development workflows, migrating taking us from a company relying
-        on shared remote resources for even the simplest of local development to being able to now spin up and develop our
-        complete product stack, completely locally and off the corporate network via hosting and running the entire
-        application in a local or remote Kubernetes cluster.
-        
-        The bulk of my work has been to get us to this point, migrating projects written in .net framework to .net core.
-        Migrating our build process form on prem based TeamCity server over to GitHub action, producing Linux container
-        images for all our services. As part of this migration also having to continue to support and update our on
-        premises/VM based deployment model orchestrated using octopus deploy.
-        
-        As a member of the Technical Steering Group (along with 2 other senior/lead engineers and the CTO) I have a high
-        level of ownership on the technical direction of the product with my main focus on the .NET backend system and
-        hosting architecture.
-        
-        Another major focus here is based around developer productivity, building tools (see Localdev above) and frameworks
-        to facilitate the rest of the team to be able to rapid iterate on the product without having to worry about how it
-        all hangs together during their inner loop of development.
+        I have been central to initiating and building the core frameworks and initial implementations behind new product
+        capabilities, including AI orchestration loops and the integration of LLM tooling into the platform. This included
+        creating the foundations for how we design, coordinate and evolve AI-driven workflows, turning early exploratory ideas
+        into production-ready patterns that the wider team could build on.
 
+        I also lead and own our deployment, CI and local development workflows, moving us from a company reliant on shared
+        remote resources for even the simplest of local development to a setup where we can spin up and develop the complete
+        product stack locally, and run the full application in a local or remote Kubernetes cluster without depending on the
+        corporate network.
+
+        The bulk of my early work to get us to this point included migrating our codebase from .NET Framework to .NET Core,
+        moving our build process from an on-prem TeamCity server to GitHub Actions, producing Linux container images for
+        all our services, and continuing to support and evolve our on-premises/VM-based deployment model orchestrated via
+        Octopus Deploy.
+
+        As an individual contributing member of the engineering management team (alongside other lead engineers, the CTO and CEO),
+        I have a high level of ownership over the technical direction of the product, with a primary focus on the .NET backend
+        system and hosting architecture, while also contributing to broader architectural decisions across the product and
+        spearheading key front-end initiatives.
+
+        Another major focus here has been developer productivity. I have built tools and frameworks to help the rest of the
+        team iterate quickly without worrying about how the underlying systems fit together during their inner development
+        loop. This includes spearheading administrative tooling for managing, tracking, validating and monitoring our data
+        ingestion pipeline, giving the team visibility into pipeline health, data quality and operational status at scale.
 
 
 - role: Lead Developer
   company: MD Insurance Services Limited (aka Premier Guarantee)
-  range : April 2017 - November 2020
+  range: April 2017 - November 2020
   summary: |
-        While working at MD Insurance Services I have proven my vision and architectural design skills, by starting as a 
-        Senior developer and by being instrumental in pushing forth industry best practices like code reviews, CI/CD 
-        , by liaise with business users to help engineer a design to match their goals, by guiding the wider team of both 
-        senior and junior developers along the vision for the desired solution. Thus, being promoted to Lead.
-        
-        Along with guiding the overall architectural design of our in house developed system I provide I direct support and 
-        mentoring to other members on the team and helping them to find solutions to solve their development tasks.
-        
-        The major project I am responsible for is the CRiSP risk and policy management system that now runs as the core 
-        platform for most of the business needs, for onboarding new clients via a suite of public facing portals, to internal
-        specialist internal ones for specialized business areas. I.E. specialized/simplified interface for our surveying 
-        field staff.
-        
-        Not only I am responsible for the design and direction of the platform my responsibilities also include keeping both
-        our large suite of QA environments running but also deploying, monitoring and ensuring our production system ticks
-        along smoothly to aid in this I developed a robust DevOps pipeline that supports deploying all our components out with
-        little downtime with on going work to re-platform to provide as close to zero downtime deployments.
+        While working at MD Insurance Services, I proved my vision and architectural design skills, starting as a Senior
+        Developer and becoming instrumental in promoting best practices such as code reviews and CI/CD. I worked closely
+        with business users to shape a design that matched their goals and guided a wider team of senior and junior developers
+        toward the agreed technical vision, leading to my promotion to Lead Developer.
+
+        Alongside guiding the overall architectural design of our in-house developed system, I provided direct support and
+        mentoring to team members and helped them find solutions to their development tasks.
+
+        The major project I was responsible for was the CRiSP risk and policy management system, which became the core
+        platform for much of the business, supporting onboarding for new clients via public-facing portals and specialist
+        internal tools for surveying and field operations.
+
+        In addition to the design and direction of the platform, I was also responsible for maintaining a large suite of QA
+        environments, deploying and monitoring production systems, and developing a robust DevOps pipeline that supported
+        low-downtime releases and ongoing re-platforming work.
 
 
 - role: Senior Developer
   company: 2020 Legal Limited
   range: December 2013 - April 2017
   summary: |
-        During my time employed at 2020 Legal I had been directly responsible for improving development practices
-        and producing high impact systems.
-        
-        In my role I had complete autonomy about technical architecture of the systems and been instrumental 
-        in the technical direction of the development team, this includes introducing best practice development 
-        procedures, moving the company over from using SVN over to git and introducing the gitflow development 
-        pattern, worked to improve the continuous build/deployment workflow by moving deployment over to octopus
-        deploy to provide a central deployment solution across our projects, and also move company over to a SOA 
-        for internal systems and implementing a middleware service wrapping the data provided by the CRM used to 
-        provide a clean API 2 directional to integrate new tools. Also as a proof of concept of the API I migrated 
-        the existing customer portals over to run from it exclusively.
-        
-        I produced a multitude of technical systems for 2020 Legal from small single integration pieces (producing 
-        a system to work around the technical limitations of the CRM being used). To large scale(effecting every single 
-        employee in the company) systems for managing outgoing mail/printing/documents (see EDS and PEX).
-        
-        In addition to the above projects, as a full stack developer, I have reprised my skills from my previous employment 
-        to rebuild most of the company's websites using Umbraco.
+        During my time at 2020 Legal, I was directly responsible for improving development practices and delivering
+        high-impact systems.
+
+        In my role, I had complete autonomy over the technical architecture and was instrumental in shaping the direction of
+        the development team. This included introducing best-practice development procedures, migrating the company from SVN
+        to Git, adopting the GitFlow development pattern, improving the continuous build and deployment workflow by moving to
+        Octopus Deploy as a central deployment solution, and transitioning internal systems toward a service-oriented
+        architecture. I implemented a middleware service wrapping CRM data to provide a clean, two-way API for integrating new
+        tools, and as a proof of concept, migrated the existing customer portals to run exclusively from it.
+
+        I produced a wide range of technical systems for 2020 Legal, from small integration pieces that worked around CRM
+        limitations to large-scale systems affecting every employee, including solutions for managing outgoing mail, printing,
+        and document handling (see EDS and PEX).
+
+        In addition to these projects, as a full-stack developer, I rebuilt most of the company’s websites using Umbraco.
 
 - role: Developer
   company: ICE Creates Ltd
   range: March 2007 - November 2013
   summary: |
-        Over the long period of time I have been employed at ICE I have progressed from being a junior developer all the way 
-        up to the mid-level/senior developer was when I left am today. In my role I am acting as the technical lead/architect 
-        on all software being produced (Being the point of decision for both back-end and front-end development choices) not 
-        only am I responsible for leading the technical direction of the team I am also a full stack developer and fully deliver 
-        full solutions myself, developing both front end and back end solutions for internal and external clients alike.
-        
-        During my time at ICE I've been involved with a large variety of different projects. My first project(Healthy Schools 
-        Programme website) was re-factoring a hybrid VB.NET/C#, single layered, WebForms solution into an n-tier C# application 
-        (and later re-developing it as an multi-application MVC system), all whilst constantly improving/expanding the feature set. 
-        Later on as my skills expanded and I progressed up the job ladder I was given more and more responsibility over the full 
-        development life-cycle of projects, from scope all the way to development and deployment. Two internal projects that I did 
-        have full responsibility of delivery for was a bespoke CRM for our in house stop smoking service, and our SaaS hosting service. 
-        The CRM was a WinForms application using a local CouchDB as a offline multi-master replicating datastore with a customized 
-        reporting solution build on top of couchDB's map/reduce capabilities, whilst the SaaS solution was built around a core MVC and 
-        WebAPI solutions, with satellite Umbraco based sites liking in as a data/user/settings store.
-        
-        In addition to the above projects, as a full stack developer, I have been responsible for producing countless websites for 
-        clients, developing the solution, to implementing the designs and then wiring up the JavaScript to back-end web-services 
-        I developed. The types of websites I have been responsible for over the years have varied in scope from simple brochure 
-        sites to complex web application used for tracking physical activity.
+        Over the period I was employed at ICE, I progressed from junior developer to mid-level/senior developer. In my role,
+        I acted as the technical lead and architect for the software produced, making key decisions on both backend and
+        frontend development choices. I was responsible not only for leading the technical direction of the team but also for
+        delivering full-stack solutions for internal and external clients alike.
 
-        Finally I have a wider experiences than just developing websites, I also have also been responsible for developing web 
-        connected mobile applications (using both Phonegap and Titanium mobile), and systems that run on touchscreen kiosks 
-        using web technologies.
+        During my time at ICE, I worked on a wide variety of projects. My first project, the Healthy Schools Programme website,
+        involved refactoring a hybrid VB.NET/C# single-layer WebForms solution into an n-tier C# application and later
+        re-developing it as a multi-application MVC system while continually improving and expanding the feature set.
 
-- role: Helpdesk technician 
+        As my skills developed, I took on increasing responsibility across the full development lifecycle, from scoping through
+        to development and deployment. Two internal projects I owned end-to-end were a bespoke CRM for our in-house stop-smoking
+        service and our SaaS hosting platform. The CRM used a WinForms front end with a local CouchDB datastore for offline
+        multi-master replication, supported by a customized reporting solution built on CouchDB’s map/reduce capabilities. The
+        SaaS platform was built around core MVC and WebAPI solutions, with satellite Umbraco-based sites linking in as data,
+        user, and settings stores.
+
+        In addition to these projects, as a full-stack developer, I was responsible for producing countless client websites,
+        from implementing designs and wiring JavaScript to backend web services I developed. These ranged from simple brochure
+        sites to complex web applications used for tracking physical activity.
+
+        My experience extended beyond websites. I was also responsible for developing web-connected mobile applications using
+        both PhoneGap and Titanium Mobile, as well as systems running on touchscreen kiosks using web technologies.
+
+- role: Helpdesk Technician
   company: Baum Hart and Partners
   range: March 2006 - March 2007
   summary: |
-        During my time here parts of my job involved taking help desk calls, then trying to replicate the errors and investigation
-        into the problem the user is facing while using a bespoke piece of software being implemented by multiple NHS trusts and
-        hospitals around the country. Also having to do data preparation by developing SQL scripts to extract live data from 
-        databases for later use in updates and reports. My responsibilities also included managing the office network as the 
-        office technical support personal, with a primary responsibility, but not limited, to maintain the web, SQL and files 
-        servers, also in the role of Technical Support officer I was responsible in supporting the technical network solutions 
-        for our clients.
+        During my time here, much of my role involved taking help desk calls, reproducing issues, and investigating problems
+        reported by users of a bespoke software system being used across multiple NHS trusts and hospitals. I also performed
+        data preparation by writing SQL scripts to extract live data from databases for later updates and reporting.
+
+        My responsibilities also included managing the office network as the primary technical support contact, with a focus on
+        maintaining the web, SQL, and file servers. In the role of Technical Support Officer, I was also responsible for
+        supporting the technical network solutions for our clients.

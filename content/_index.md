@@ -8,4 +8,4 @@ outputs:
 - rss
 - json
 ---
-Passionate and proficient full stack C# Developer with experience leading the architectural vision of large systems and leveraging my proven DevOps and CI/CD skills to distribute systems effecting hundreds of distributed users.
+Senior software engineer with a strong background in full-stack development, with a focus on C#, JavaScript, and TypeScript. I build and evolve complex platforms, drive engineering strategy, and deliver reliable production systems that support distributed teams and users at scale, leveraging my engineering, DevOps, and CI/CD skills.
